@@ -1,5 +1,5 @@
 Arguments: 
-  /Users/albansuchaire/.nvm/versions/node/v8.12.0/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js test findFirstNonRepeting
+  /Users/albansuchaire/.nvm/versions/node/v8.12.0/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js test findLastItem
 
 PATH: 
   ./node_modules/.bin:/Users/albansuchaire/.nvm/versions/node/v8.12.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
@@ -4654,7 +4654,7 @@ Trace:
   Error: Command failed.
   Exit code: 1
   Command: sh
-  Arguments: -c jest findFirstNonRepeting
+  Arguments: -c jest findLastItem
   Directory: /Users/albansuchaire/Dev/LaboWeb/hacktoberfest/hacktoberfest-2k18-katas
   Output:
   
